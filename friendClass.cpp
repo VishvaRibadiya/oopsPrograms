@@ -14,7 +14,7 @@ class A
 };
 class B
 {
-   public:
+   public: 
    void add(A r)
    {
     int add=r.a + r.b;
